@@ -59,7 +59,7 @@ if(isset($message)){
       <input type="password" name="password" required placeholder="كلمة المرور" class="box"><br><br>
       <input type="password" name="cpassword" required placeholder="تأكيد كلمة المرور" class="box"><br><br>
       <input type="submit" name="submit" class="btn" value="تسجيل حساب">
-      <p>هل لديك حساب؟ <a href="index1.php"> تسجيل دخول</a></p>
+      <p>هل لديك حساب؟ <a href="index.html"> تسجيل دخول</a></p>
 </center>
    </form>
 
